@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 
 public class Inventory {
+    //Teste
     private int size;
     private ArrayList slots = new ArrayList();
     private Item weapon;
